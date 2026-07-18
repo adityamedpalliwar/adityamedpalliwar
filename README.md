@@ -8,9 +8,6 @@
 <p align="center">
   <a href="mailto:adityamedpalliwar27@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/aditya-medpalliwar-34138532a">LinkedIn</a> •
-  <a href="https://github.com/adityamedpalliwar">GitHub</a> •
-  <a href="https://leetcode.com/adityamedpalliwar">LeetCode</a> •
-  <a href="https://codeforces.com/profile/noobam">Codeforces</a>
 </p>
 
 ---
