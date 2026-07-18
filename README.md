@@ -6,30 +6,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/adityamedpalliwar">
-    <img src="https://komarev.com/ghpvc/?username=adityamedpalliwar&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <a href="mailto:adityamedpalliwar27@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/aditya-medpalliwar-34138532a">LinkedIn</a> •
+  <a href="https://github.com/adityamedpalliwar">GitHub</a> •
+  <a href="https://leetcode.com/adityamedpalliwar">LeetCode</a> •
+  <a href="https://codeforces.com/profile/noobam">Codeforces</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Mathematics & Computing undergraduate at SVNIT Surat** passionate about building software that is scalable, reliable, and efficient.
+I'm a **Mathematics & Computing undergraduate at SVNIT Surat** with a strong interest in **Backend Engineering**, **Systems Programming**, and **Quantitative Computing**.
 
-My primary interests include:
+I enjoy building practical software, exploring new technologies, and solving challenging algorithmic problems through competitive programming.
 
-- 🌐 Full-Stack Web Development
-- ⚡ Systems Programming
-- 🧠 Competitive Programming & Algorithms
-- 🚀 Backend Engineering
-- 📚 Exploring Rust and High-Performance Systems
-
-I enjoy learning new technologies by building practical projects rather than following tutorials.
+- 💻 Full-Stack Developer
+- ⚡ Competitive Programmer
+- 🦀 Currently learning Rust & Systems Programming
+- 📚 Passionate about Distributed Systems and High-Performance Software
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -37,16 +36,16 @@ I enjoy learning new technologies by building practical projects rather than fol
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,rust" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</p>
-
 ### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
 ### Tools
@@ -57,81 +56,113 @@ I enjoy learning new technologies by building practical projects rather than fol
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🚀 Rust CP Toolkit
-A Rust CLI that automates compile-run workflows, sample testing, benchmarking, and stress testing for competitive programming.
+## 📈 StochOpt-Engine — Deep Stochastic Optimization System
 
-**Tech:** Rust • Clap • anyhow • thiserror
+A quantitative optimization platform that combines **probabilistic forecasting**, **Monte Carlo simulation**, and **reinforcement learning** to optimize pricing and inventory decisions under uncertain market demand.
 
----
+### Highlights
 
-### 🏡 WanderLust
-A full-stack Airbnb-inspired web application featuring authentication, listings, image uploads, and reviews.
+- Built an **autoregressive LSTM** to predict future demand along with predictive uncertainty.
+- Developed a **Monte Carlo simulation engine** to generate realistic stochastic market scenarios.
+- Trained a **Proximal Policy Optimization (PPO)** agent to jointly optimize pricing and inventory decisions.
+- Parallelized reinforcement learning training using **SubprocVecEnv**.
+- Integrated **Weights & Biases (W&B)** for experiment tracking and model versioning.
 
-**Tech:** Node.js • Express • MongoDB • Passport.js
-
----
-
-### 🧠 MindSettler
-A mental wellness platform with AI-assisted features, appointment booking, and role-based access control.
-
-**Tech:** Next.js • React • MongoDB • Express • Tailwind CSS
+**Tech Stack:** PyTorch • LSTM • Stable-Baselines3 • Reinforcement Learning • Monte Carlo Simulation • Weights & Biases
 
 ---
 
-## 📈 Competitive Programming
+## 🦀 Rust CP Toolkit
 
-- 💻 Solving algorithmic problems regularly on Codeforces & LeetCode
-- 📚 Strong interest in Data Structures and Algorithms
-- 🎯 Continuously improving problem-solving and optimization skills
+A Rust command-line application that automates competitive programming workflows, including project initialization, compilation, sample testing, benchmarking, stress testing, and cleanup.
 
----
+### Highlights
 
-## 📊 GitHub Statistics
+- Modular CLI built using **Rust** and **Clap**
+- Robust error handling with **anyhow** and **thiserror**
+- Automated compile-run workflow
+- Execution benchmarking
+- Stress testing support
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityamedpalliwar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamedpalliwar&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamedpalliwar&theme=github-dark&hide_border=true"/>
-</p>
+**Tech Stack:** Rust • Clap • anyhow • thiserror
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 MindSettler
+
+A full-stack mental wellness platform featuring AI-assisted support, secure authentication, appointment booking, and role-based access control.
+
+### Highlights
+
+- AI-powered mental wellness assistant
+- Authentication & Authorization
+- Appointment booking system
+- Responsive modern UI
+
+**Tech Stack:** Next.js • React • Node.js • Express • MongoDB • Tailwind CSS
+
+---
+
+## 🏡 WanderLust
+
+An Airbnb-inspired web application supporting property listings, reviews, authentication, image uploads, and interactive maps.
+
+**Tech Stack:** Node.js • Express • MongoDB • Passport.js
+
+---
+
+# 🏆 Competitive Programming
+
+I actively practice Data Structures & Algorithms through competitive programming.
+
+- 💻 Codeforces
+- 🟧 LeetCode
+
+Interested in:
+
+- Graph Algorithms
+- Dynamic Programming
+- Number Theory
+- Data Structures
+- Algorithmic Problem Solving
+
+---
+
+# 🌱 Currently Learning
 
 - Rust
 - Systems Programming
-- Operating Systems
 - Distributed Systems
+- Operating Systems
 - Computer Networks
+- Quantitative Finance
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/aditya-medpalliwar-34138532a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 <a href="mailto:adityamedpalliwar27@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
 </a>
 
+<a href="https://www.linkedin.com/in/aditya-medpalliwar-34138532a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://codeforces.com/profile/noobam">
-<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/adityamedpalliwar">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 
 ---
 
-> *"First solve the problem. Then write clean, maintainable code."*
+<p align="center">
+<i>"Build practical software. Understand systems deeply. Never stop learning."</i>
+</p>
