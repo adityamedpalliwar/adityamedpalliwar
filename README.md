@@ -110,33 +110,6 @@ An Airbnb-inspired web application supporting property listings, reviews, authen
 
 ---
 
-# 🏆 Competitive Programming
-
-I actively practice Data Structures & Algorithms through competitive programming.
-
-- 💻 Codeforces
-- 🟧 LeetCode
-
-Interested in:
-
-- Graph Algorithms
-- Dynamic Programming
-- Number Theory
-- Data Structures
-- Algorithmic Problem Solving
-
----
-
-# 🌱 Currently Learning
-
-- Rust
-- Systems Programming
-- Distributed Systems
-- Operating Systems
-- Computer Networks
-- Quantitative Finance
-
----
 
 # 📫 Connect With Me
 
@@ -149,13 +122,6 @@ Interested in:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/noobam">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/adityamedpalliwar">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 </p>
 
 ---
